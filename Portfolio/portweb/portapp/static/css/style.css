@@ -1,0 +1,16 @@
+.custom-navbar {
+    background: linear-gradient(to right, #a0b0c0, gray);
+  }
+  
+.c_img{
+    width: auto;
+    height: auto;  
+    object-fit: cover;
+}
+
+.custom-tooltip {
+  --bs-tooltip-bg:rgb(112, 55, 219) !important;
+  --bs-tooltip-color: white;
+}
+
+
